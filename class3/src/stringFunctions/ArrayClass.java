@@ -6,7 +6,7 @@ public class ArrayClass {
 
 	public static void main(String[] args) {
 	
-		int[] a ={34, 45, 67, 89, 23,};
+		int[] a ={34, 45, 67, 89, 25,};
 		String[] b = {"jenny", "john", "mona", "tony"};
 		
 		int c[] = new int[5];
